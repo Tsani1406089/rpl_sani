@@ -1,5 +1,3 @@
 # Uas_Rpl
 Muhammad Tsani Alrosid/
-1406089/
-/Sekolah Tinggi Teknologi Garut 
-Ti C/
+1406089
